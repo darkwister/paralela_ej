@@ -1,0 +1,14 @@
+d:\Files\SoftwareDev\csharp\paralela_ej\bin\Debug\net9.0\paralela_ej.exe
+d:\Files\SoftwareDev\csharp\paralela_ej\bin\Debug\net9.0\paralela_ej.deps.json
+d:\Files\SoftwareDev\csharp\paralela_ej\bin\Debug\net9.0\paralela_ej.runtimeconfig.json
+d:\Files\SoftwareDev\csharp\paralela_ej\bin\Debug\net9.0\paralela_ej.dll
+d:\Files\SoftwareDev\csharp\paralela_ej\bin\Debug\net9.0\paralela_ej.pdb
+d:\Files\SoftwareDev\csharp\paralela_ej\obj\Debug\net9.0\paralela_ej.GeneratedMSBuildEditorConfig.editorconfig
+d:\Files\SoftwareDev\csharp\paralela_ej\obj\Debug\net9.0\paralela_ej.AssemblyInfoInputs.cache
+d:\Files\SoftwareDev\csharp\paralela_ej\obj\Debug\net9.0\paralela_ej.AssemblyInfo.cs
+d:\Files\SoftwareDev\csharp\paralela_ej\obj\Debug\net9.0\paralela_ej.csproj.CoreCompileInputs.cache
+d:\Files\SoftwareDev\csharp\paralela_ej\obj\Debug\net9.0\paralela_ej.dll
+d:\Files\SoftwareDev\csharp\paralela_ej\obj\Debug\net9.0\refint\paralela_ej.dll
+d:\Files\SoftwareDev\csharp\paralela_ej\obj\Debug\net9.0\paralela_ej.pdb
+d:\Files\SoftwareDev\csharp\paralela_ej\obj\Debug\net9.0\paralela_ej.genruntimeconfig.cache
+d:\Files\SoftwareDev\csharp\paralela_ej\obj\Debug\net9.0\ref\paralela_ej.dll
